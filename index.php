@@ -17,6 +17,7 @@ $job_boards = array(
     'icims.com',
     'freshteam.com',
     'careers.hireology.com',
+    'linkedin.com/jobs',
 );
 
 $timeframes = array(
